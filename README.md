@@ -2,16 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=sou+gay+demais+;)" alt="Typing SVG" />
 </a>
 
-# Samuel Palmeirense
+# Samuel Bonifacio Rodrigues
 
-**`Desenvolvedor & Amo menor de 18`**
+**`Desenvolvedor & SpringBoot/VisualCode`**
 
 <div style= display = "center"
   <a href="https://www.instagram.com/jgperim" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
  
-   <a href="jgperimbortoletto@gmail.com">
+   <a href="samuel.rodrigues212515@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
  
@@ -41,15 +41,6 @@
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img
-    align="left"
-    alt="Photoshop"
-    title="Photoshop"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/250px-Adobe_Photoshop_CC_icon.svg.png"
 />
 
 <img
