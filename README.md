@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Olá, eu sou Samuel Rodrigues
 
-<!--
-**samuel-senai08/samuel-senai08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em aprendizado constante
+🚀 Interessado em tecnologia, programação e projetos criativos
+📚 Atualmente estudando desenvolvimento web e software
+🎯 Objetivo: evoluir como desenvolvedor e construir projetos úteis
 
-Here are some ideas to get you started:
+🚀 Tecnologias que estou aprendendo
+HTML5
+JavaScript
+SpringBootDevTools
+Git & GitHub
+📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 Onde me encontrar
+GitHub: https://github.com/samuel-senai08
+LinkedIn: coloque-seu-link-aqui
+Discord: samuelbonifacio08
+✨ Sobre mim
+Apaixonado por tecnologia e sempre buscando aprender algo novo.
+
+⭐ Obrigado por visitar meu perfil!
