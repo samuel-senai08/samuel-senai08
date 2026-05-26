@@ -20,3 +20,5 @@ Discord: samuelbonifacio08
 Apaixonado por tecnologia e sempre buscando aprender algo novo.
 
 ⭐ Obrigado por visitar meu perfil!
+
+![PacMan](https://raw.githubusercontent.com/samuel-senai08/samuel-senai08/output/pacman.svg)
