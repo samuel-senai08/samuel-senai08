@@ -3,9 +3,9 @@
 </a>
 
 <p align="center">
-  💻 Desenvolvedor apaixonado por tecnologia <br>
-  ⚽ Torcedor do São Paulo FC <br>
-  🚀 Sempre aprendendo coisas novas
+  ° 💻 Desenvolvedor apaixonado por tecnologia <br>
+  ° ⚽ Torcedor do São Paulo FC <br>
+  ° 🚀 Sempre aprendendo coisas novas
 </p>
 
 ---
