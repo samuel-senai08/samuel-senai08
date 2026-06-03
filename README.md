@@ -4,7 +4,7 @@
 
 <p align="center">
   ° 💻 Desenvolvedor apaixonado por tecnologia <br>
-  ° ⚽ Torcedor do PALEMIRAS VAI PALMEIRA oFC <br>
+  ° ⚽ Torcedor do SÃO PAULO FUTEBOL CLUBE <br>
   ° 🚀 Sempre aprendendo coisas novas
 </p>
 
