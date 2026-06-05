@@ -45,20 +45,22 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-bonifacio-rodrigues-349150386/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  <a href="https://www.instagram.com/samuel_bonifacio08/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
-  </a>
   <a href="mailto:samuel.rodrigues212515@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://www.linkedin.com/in/samuel-bonifacio-rodrigues-349150386/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.instagram.com/samuel_bonifacio08/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
   </a>
 </p>
 
 <p align="center">
-  💻 Desenvolvedor em formação | 🚀 Sempre aprendendo novas tecnologias
+  💡 Aberto a oportunidades, networking e projetos de desenvolvimento.
 </p>
