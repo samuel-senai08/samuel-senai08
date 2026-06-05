@@ -1,13 +1,13 @@
 <h1 align="center">👋 Olá, eu sou Samuel Bonifácio</h1>
 
+<h3 align="center">💻 Desenvolvedor em Formação</h3>
+
 <p align="center">
-  <strong>💻 Desenvolvedor em Formação</strong>
+  🚀 Apaixonado por tecnologia • ☕ Café + Código • ⚽ São Paulo FC 🇾🇪
 </p>
 
 <p align="center">
-  🚀 Apaixonado por tecnologia <br>
-  ⚽ Torcedor do São Paulo Futebol Clube 🇾🇪 <br>
-  📚 Estudando JavaScript, TypeScript e Java
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+em+Formação;Estudando+JavaScript,+TypeScript+e+Java;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,git,github,vscode&perline=4" />
 </p>
 
 ---
@@ -37,6 +37,14 @@ public class SamuelBonifacio {
 - 📚 Aprendendo novas tecnologias todos os dias
 - 🎨 Apaixonado por criar interfaces modernas
 - 🚀 Em busca da primeira oportunidade na área de tecnologia
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-senai08&theme=tokyo-night" />
+</p>
 
 ---
 
