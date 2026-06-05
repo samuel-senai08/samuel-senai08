@@ -1,13 +1,15 @@
 <h1 align="center">👋 Olá, eu sou Samuel Bonifácio</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Samuel+Bonifácio;Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   💻 Desenvolvedor apaixonado por tecnologia <br>
   ⚽ Torcedor do São Paulo Futebol Clube 🇾🇪 <br>
-  🚀 Sempre aprendendo e evoluindo
+  🚀 Sempre aprendendo coisas novas
 </p>
 
 ---
@@ -24,9 +26,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-senai08&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-senai08&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -35,11 +37,13 @@
 ## 🎯 Sobre Mim
 
 ```java
-public class Samuel {
+public class SamuelBonifacio {
+
     String foco = "Desenvolvimento Web";
     String estudando = "JavaScript, TypeScript e Java";
-    String objetivo = "Primeira oportunidade como desenvolvedor";
+    String objetivo = "Primeira oportunidade como Desenvolvedor";
     String clube = "São Paulo FC";
+
 }
 ```
 
@@ -47,14 +51,6 @@ public class Samuel {
 - 📚 Aprendendo novas tecnologias todos os dias
 - 🎨 Apaixonado por criar interfaces modernas
 - 🚀 Em busca da primeira oportunidade na área de tecnologia
-
----
-
-## 🏆 Conquistas GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
@@ -74,9 +70,7 @@ public class Samuel {
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&style=for-the-badge&color=blueviolet"/>
-</p>
+---
 
 <p align="center">
   ⭐ Obrigado por visitar meu perfil!
