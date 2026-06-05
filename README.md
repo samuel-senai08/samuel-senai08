@@ -48,6 +48,12 @@ public class SamuelBonifacio {
 
 ---
 
+## 🐍 Pac-Man das Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samuel-senai08/samuel-senai08/output/pacman.svg" alt="Pacman contribution graph" />
+</p>
+
 ## 📫 Contato
 
 <p align="center">
